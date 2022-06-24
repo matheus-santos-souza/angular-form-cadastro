@@ -1,0 +1,11 @@
+.bi-eye-slash-fill, .bi-eye-fill {
+    position: absolute;
+    top: 17.5px;
+    right: 32px;
+    color: rgb(53, 53, 53);
+    cursor: pointer;
+}
+
+.bi-eye-slash-fill:hover, .bi-eye-fill:hover {
+    color:rgb(116, 116, 116)
+}
